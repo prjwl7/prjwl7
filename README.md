@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Svelte**<br><br>- 💬 Ask me about **MERN, Django, Web3**<br><br>- 📫 How to reach me **prjwl888.dkc@gmail.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/1hBEaAqAS81La42SCkk2-AWYvFmXbuk2w/view?usp=drive_link](https://drive.google.com/file/d/1hBEaAqAS81La42SCkk2-AWYvFmXbuk2w/view?usp=drive_link)<br><br>- ⚡ Fun fact **I love playing football.**
+- 🌱 Currently delving into **Svelte**<br><br>
+- 💬 Ask me anything related to **MERN, Django, Web3**<br><br>
+- 📫 Reach out to me at **prjwl888.dkc@gmail.com**<br><br>
+- 📄 Check out my professional journey [here](https://drive.google.com/file/d/1hBEaAqAS81La42SCkk2-AWYvFmXbuk2w/view?usp=drive_link)<br><br>
+- ⚡ Fun fact: **I love playing football !!** ⚽
+
 
 
 ## 🌐 Socials:
