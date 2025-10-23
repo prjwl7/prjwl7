@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🌱 Currently delving into **Svelte**<br><br>
-- 💬 Ask me anything related to **MERN, Django, Web3**<br><br>
+- 🌱 Currently delving into **Python|Kafka|Airflow**<br><br>
+- 💬 Ask me anything related to **Flask|Django|System Design**<br><br>
 - 📫 Reach out to me at **prjwl888.dkc@gmail.com**<br><br>
 - 📄 Check out my professional journey [here](https://drive.google.com/file/d/1hBEaAqAS81La42SCkk2-AWYvFmXbuk2w/view?usp=drive_link)<br><br>
 - ⚡ Fun fact: **I love playing football !!** ⚽
