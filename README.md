@@ -2,7 +2,7 @@
 - 🌱 Currently delving into **Python|Kafka|Airflow**<br><br>
 - 💬 Ask me anything related to **Flask|Django|System Design**<br><br>
 - 📫 Reach out to me at **prjwl888.dkc@gmail.com**<br><br>
-- 📄 Check out my professional journey [here](https://drive.google.com/file/d/1hBEaAqAS81La42SCkk2-AWYvFmXbuk2w/view?usp=drive_link)<br><br>
+- 📄 Check out my professional journey [here](https://drive.google.com/file/d/1BIP-s249XcP5sk3iGndi0Adxj3-WeFe2/view?usp=sharing)<br><br>
 - ⚡ Fun fact: **I love playing football !!** ⚽
 
 
